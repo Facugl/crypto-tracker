@@ -6,7 +6,7 @@
 
 ## Ejemplo en vivo 🚀
 
-- [link](https://facugl.github.io/crypto-tracker/)
+- [link](https://facugl.github.io/crypto-tracker/#/)
 - [CoinGecko API](https://www.coingecko.com/en/api/documentation)
 
 ---
