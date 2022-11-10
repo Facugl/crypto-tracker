@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Cryptocurrency Tracker App 💲
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Previw Project](https://i.ibb.co/VtXzXgv/preview-project.png)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Ejemplo en vivo 🚀
 
-### `npm start`
+- [link](https://facugl.github.io/crypto-tracker/)
+- [CoinGecko API](https://www.coingecko.com/en/api/documentation)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Descripción 📑
 
-### `npm test`
+Podrás buscar tus cryptomonedas favoritas, conocer los precios que tuvo en diferentes períodos de tiempo, agregarlas y eliminarla de tu lista de cryptomendas favoritas.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Afiancé mis conocimientos en React, además aprendí cómo autenticar usurios con Google y tener una base de datos en tiempo real utilizando Firebase.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tecnologías 🛠
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![ChartsJS](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Vista previa del proyecto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Desktop Previw - add](https://i.ibb.co/YbzNRzm/add.png)
+![Desktop Preview - watchlist](https://i.ibb.co/4sLHnBW/watchlist.png)
+![Desktop Previw - search](https://i.ibb.co/ZhxRwy7/search.png)
+![Mobile Previw](https://i.ibb.co/x15znYH/movile.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Autor ✒️
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Facundo Luna**
 
-## Learn More
+- [facundolunaok@gmail.com](facundolunaok@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/facundoluna/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Licencia 📄
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+MIT Public License v3.0
+No puede usarse comencialmente.
